@@ -3,7 +3,7 @@
 import React, { useEffect, useRef } from "react";
 import Image from "next/image";
 import { motion, useAnimation, useInView } from "framer-motion";
-import { Component } from "lucide-react";
+#import { Component } from "lucide-react";
 
 export function AboutSection() {
   const controls = useAnimation();
